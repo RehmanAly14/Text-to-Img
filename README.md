@@ -106,5 +106,3 @@
 
 ### Contributions, issues, and suggestions are welcome!
 
-
-## 
