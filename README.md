@@ -23,7 +23,7 @@
 
 --- 
 
-### 🧩 Tech Stack
+###  Tech Stack
 #### Frontend
 - React.js
 - Tailwind CSS
