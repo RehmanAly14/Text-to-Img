@@ -43,7 +43,7 @@
 
 ---
 
-### 📁 Project Structure
+###  Project Structure
 /client        → Frontend (React)
 /server        → Backend (Express API)
 /models        → Database schemas
