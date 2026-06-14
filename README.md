@@ -107,4 +107,4 @@
 ### Contributions, issues, and suggestions are welcome!
 
 
-## Feel free to connect or collaborate!
+## Feel free 
