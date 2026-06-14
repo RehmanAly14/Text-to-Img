@@ -10,7 +10,7 @@
 #### AI Image Generation
 - Convert text prompts into high-quality images
 - Powered by ClipDrop API
-#### 👤 User Authentication
+####  User Authentication
 - Secure signup/login system
 - Personalized user experience
 #### Credit-Based System
