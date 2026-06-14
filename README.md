@@ -106,6 +106,5 @@
 
 ### Contributions, issues, and suggestions are welcome!
 
-# Contact
 
 ## Feel free to connect or collaborate!
